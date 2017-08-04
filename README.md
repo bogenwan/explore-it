@@ -30,8 +30,20 @@
 
 ### Installing Dependencies
 
-From with the root directory:
+From with-in the root directory:
 
 ```
 npm install
+```
+Start the development server with this command
+
+```
+npm start
+```
+
+### Compile bundle
+
+From with-in the root directory:
+```
+npm run compile
 ```
