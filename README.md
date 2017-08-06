@@ -8,10 +8,10 @@
 
 ## Table of contents
 
-1. [useage](#Usage)
-2. [requirements](#Requirements)
-    1. [installing Dependencies](#Installing Dependencies)
-3. [team](#Team)
+1. [usage](##Usage)
+2. [requirements](##Requirements)
+    1. [installing Dependencies](##Installing Dependencies)
+3. [team](##Team)
 
 ## Usage
 
