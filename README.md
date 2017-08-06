@@ -30,18 +30,20 @@
 
 ### Installing Dependencies
 
-From with-in the root directory:
+1. From with-in the root directory:
 
 ```
 npm install
 ```
-Start the development server with this command
+2. Start the development server with this command
 
 ```
-npm start
+npm run start
 ```
+3. Open the app from browser
+[Open in browser](http://localhost:3000/)
 
-### Compile bundle
+### Compile bundle manualy (optional)
 
 From with-in the root directory:
 ```

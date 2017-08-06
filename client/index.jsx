@@ -1,6 +1,6 @@
-// import React from 'react';
-// import ReactDom from 'react-dom';
-// import App from './components/main.jsx'
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './components/main.jsx'
 
-// ReactDOM.render(App, document.getElementById('app'));
-console.log('Test from my build');
+ReactDOM.render(<App />, document.getElementById('app'));
+// console.log('Test from my build');
